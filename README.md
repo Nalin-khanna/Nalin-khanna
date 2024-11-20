@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalin-khanna&label=Profile%20views&color=0e75b6&style=flat" alt="nalin-khanna" /> </p>
 
-- 🔭 I’m currently working on [SIH_HACKATHON_2024](https://sih.gov.in/)
 
 - 🌱 I’m currently learning **Nextjs , Vuejs , Linux , Deep learning.... (the list doesn't stop , neither does my learning)**
 
