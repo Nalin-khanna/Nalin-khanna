@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nalin Khanna</h1>
-<h3 align="center">A passionate web and ML developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalin-khanna&label=Profile%20views&color=0e75b6&style=flat" alt="nalin-khanna" /> </p>
 
-
-- 🌱 I’m currently learning **Nextjs , Vuejs , Linux , Deep learning.... (the list doesn't stop , neither does my learning)**
 
 - 👯 I’m looking to collaborate on **multiple projects in future**
 
