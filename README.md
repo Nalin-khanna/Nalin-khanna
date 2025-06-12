@@ -1,12 +1,10 @@
 # Hey there! 👋 I'm Nalin Khanna
 
-**Full Stack Developer** passionate about building scalable web applications and exploring blockchain technology.
+**Full Stack Developer** passionate about building scalable web applications 
 
 ## 🚀 What I'm Working On
 
-- Building smart contracts on Solana (escrow & governance contracts)
 - Full-stack web applications with modern tech stacks
-- Always learning something new in the blockchain space
 
 ## 💻 Tech Stack
 
